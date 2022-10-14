@@ -1,0 +1,9 @@
+
+.buy-now{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer; 
+}
